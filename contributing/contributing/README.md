@@ -1,39 +1,38 @@
-# Contributing
+# Зробити внесок
 
-### Contribute as a user
+### Зробити внесок як користувач
 
-Just by using [PreMiD](https://premid.app/) and be here on our [Discord server](https://discord.gg/WvfVZ8T) is a great pleasure.  
-Thanks for using our service!
+Просто використовуйте [PreMiD](https://premid.app/) і будьте на нашому сервер [Discord серверу](https://discord.gg/WvfVZ8T), це велике задоволення для нас  
+Дякуємо за використання нашого сервісу!
 
-### Contribute as a translator
+### Зробити внесок як перекладч
 
-Do you want to see your favorite language in PreMiD? It is easier than it seems:  
-Just click [this link](https://www.transifex.com/PreMiD/public/) and choose what language\(s\) you want to add to PreMiD.
+Ви хочете побачити свою улюблену мову в PreMiD? Це простіше, ніж здається:  
+Просто перейдіть [за цим посиланням](https://www.transifex.com/PreMiD/public/) і оберіть які мови ви хочете додати до PreMiD.
 
-### Contribute as a donator
+### Зробити внесок як донор
 
-Just type 'donate' and you're ready to go. ![:money\_with\_wings:](https://camo.githubusercontent.com/8c82232d72bdb736fd395fab7b9bf6d01b4a3cca/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663462382e706e67)  
-_Or you_ [_click here_](https://github.com/PreMiD/PreMiD) _and choose a different option._
+Просто введіть "пожертвувати" і ви готові йти жертвувати. ![:money\_with\_wings:](https://camo.githubusercontent.com/8c82232d72bdb736fd395fab7b9bf6d01b4a3cca/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f69636f6e732f656d6f6a692f756e69636f64652f31663462382e706e67)  
+Або [_натисніть тут_](https://github.com/PreMiD/PreMiD) і виберіть інший варіант.
 
-### Contribute as a Patreon
+### Зробити внесок як Патрон
 
-OwO You're about to be a [Patreon](https://www.patreon.com/Timeraa). OwO
+OwO Ти хоче бути [Патроном](https://www.patreon.com/Timeraa). OwO
 
-### Contribute as a designer
+### Зробити внесокяк дизайнер
 
-You are well known with Photoshop or similar programs? Maybe you are talent we are looking for. Just ping an Admin to start.
+Ви добре знайомі з Photoshop або подібними програмами? Можливо, ви талант, якого ми шукаємо. Просто згадайте адміністратора, щоб почати.
 
-### Contribute as a coder
+### Зробити внесок як кодер
 
-Now it's your chance to be a part of [PreMiD](https://premid.app/)! You can add your own presences or even code other things.  
-Just code something and open a pull request on [GitHub](https://github.com/PreMiD/PreMiD).
+Тепер це ваш шанс стати частиною [PreMiD](https://premid.app/)! Ви можете додати свої власні присутності або навіть кодувати інші речі  
+Просто щось додайте або змініть та відкрийте Pull request на [GitHub](https://github.com/PreMiD/PreMiD).
 
-### Contribute as a moderator
+### Зробити внесок як модератор
 
-The applications are currently closed but we'll search for more if we get more users.  
-Last date we accepted moderators into our team: 12/24/2018"
+Наразі програми закриті, але ми будемо шукати більше, якщо отримаємо більше користувачів. Остання дата, коли ми прийняли модераторів до нашої команди: 24.12.2018 "
 
-### ~~Contribute as a administrator~~
+### Зробити внесок як ~~адміністратор~~
 
-_You can't_
+_Ти не можеш_
 

@@ -1,10 +1,10 @@
-# What's PreMiD?
+# Що таке PreMiD?
 
-#### What is PreMiD?
+#### Що таке PreMiD?
 
 {% page-ref page="../../features.md" %}
 
-#### How does PreMiD work?
+#### Як PreMiD працює?
 
-Once you installed both extension and the app, they are always contacting with each other and are in touch at any time. For example, when you start watching/listening something on YouTube, YouTube Music, Netflix or other [supported services](../../support/services.md), the browser extension sends the information of video/song to the PreMiD Desktop client and PreMiD processes it, after that PreMiD sends the information with the correct way to Discord and Discord automatically sets your status. Well, all of these happens in 0.1 seconds so you don't have to worry about it.
+Щойно Ви встановили розширення та застосунок, вони завжди контактують один з одним і зв’язуються в будь-який час. Наприклад, коли ви починаєте дивитися/слухати щось на YouTube, YouTube Music, Netflix чи інших [підтримуваних сервісів](../../support/services.md), розширення браузера надсилає інформацію про відео/пісню клієнту PreMiD Desktop і PreMiD обробляє його, після чого PreMiD надсилає інформацію правильним способом у Discord і Discord автоматично встановлює ваш статус. Ну, все це відбувається за 0,1 секунди, тому вам не доведеться турбуватися про це.
 

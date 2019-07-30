@@ -1,8 +1,8 @@
-# Operating systems
+# Операційні системи
 
-| Operating Systems | App | Chrome | Firefox |
+| Операційні системи | Додаток | Chrome | Firefox |
 | :---: | :---: | :---: | :---: |
-| Windows | ✓ | ✓ | Beta |
-| Linux | Self-build | ✓ | Beta |
-| Mac OS | ✓ | ✓ | Beta |
+| Windows | ✓ | ✓ | Бета |
+| Linux | Самобудова | ✓ | Бета |
+| Mac OS | ✓ | ✓ | Бета |
 

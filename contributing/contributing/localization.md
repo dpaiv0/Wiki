@@ -1,12 +1,12 @@
-# Localization
+# Локалізація
 
-We are partnered with Transifex, so all translations will be made in it.
+Ми співпрацюємо з Transifex, тому всі переклади будуть зроблені в ньому.
 
-## Supported languages
+## Підтримувані мови
 
-These languages have already been added in the application/extension, but may need some improvements.
+Ці мови вже додані в застосунку/розширенні, але можуть знадобитися деякі вдосконалення.
 
-| Language | Percentage |
+| Мова | Відсоток |
 | :---: | :---: |
 | Arabic | ![error](https://api.premid.app/langStatus/ar) |
 | Bosnian | ![error](https://api.premid.app/langStatus/bs) |
@@ -36,11 +36,11 @@ These languages have already been added in the application/extension, but may ne
 | Ukrainian | ![error](https://api.premid.app/langStatus/uk) |
 | Vietnamese | ![error](https://api.premid.app/langStatus/vi) |
 
-## How to start?
+## Як розпочати?
 
-1. Join our [Discord server](https://discord.premid.app).
+1. Приєднайтеся до нашого [Discord серверу](https://discord.premid.app).
 2. Go to our [contributing page](./).
-3. Click on the link given and register a new account.
-4. Mention a developer in our Discord server.
-5. All translation instructions will be sent to you in near future.
+3. Натисніть на вказане посилання та зареєструйте новий акаунт.
+4. Згадайте розробника на нашому сервері Discord.
+5. Всі інструкції з перекладу будуть надіслані вам найближчим часом.
 

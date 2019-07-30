@@ -1,32 +1,32 @@
 # Table of contents
 
-* [Home](README.md)
-* [Features](features.md)
-* [Changelog](changelog.md)
+* [Головна сторінка](README.md)
+* [Особливості](features.md)
+* [Список змін](changelog.md)
 
-## About
+## ПРО <a id="about"></a>
 
-* [What's RPC?](about/whats-rpc.md)
-* [What's PreMiD?](about/whats-premid/README.md)
-  * [Example pictures](about/whats-premid/example-pictures.md)
+* [Що таке розширена присутність?](about/whats-rpc.md)
+* [Що таке PreMiD?](about/whats-premid/README.md)
+  * [Приклад зображень](about/whats-premid/example-pictures.md)
 
-## Installation
+## Установлення <a id="installation"></a>
 
-* [Extension](installation/extension.md)
-* [Application](installation/application.md)
+* [Розширення](installation/extension.md)
+* [Застосунок](installation/application.md)
 
-## Contributing
+## Зробити внесок <a id="contributing"></a>
 
-* [Contributing](contributing/contributing/README.md)
-  * [Localization](contributing/contributing/localization.md)
+* [Зробити внесок](contributing/contributing/README.md)
+  * [Локалізація](contributing/contributing/localization.md)
 
-## Troubleshooting
+## Вирішення проблем <a id="troubleshooting"></a>
 
-* [Troubleshooting](troubleshooting/troubleshooting.md)
+* [Вирішення проблем](troubleshooting/troubleshooting.md)
 
-## Support
+## Підтримка <a id="support"></a>
 
-* [Operating systems](support/operating-systems/README.md)
-  * [Additional Browsers](support/operating-systems/additional-browsers.md)
-* [Services](support/services.md)
+* [Операційні системи](support/operating-systems/README.md)
+  * [Додаткові браузери](support/operating-systems/additional-browsers.md)
+* [Сервіси](support/services.md)
 

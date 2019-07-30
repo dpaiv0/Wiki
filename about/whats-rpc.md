@@ -1,8 +1,8 @@
-# What's RPC?
+# Що таке розширена присутність?
 
-#### What is RPC and how does it work?
+**Що таке розширена присутність і як це працює?**
 
-Rich Presence is one of the coolest features of Discord at this moment and it basically changes the look and style of your "now playing" area on your Discord profile. Discord's RPC supported games \(such as GTA V™, Rainbow Six® Siege etc.\) are broadcasting your in-game status to your Discord profile in a really cool way. They basically use their app to send your game status to Discord which renders the information as a Rich Presence on your profile. Finally, they become the way in the picture below.
+Розширена присутність є однією з найкрутіших особливостей Discord на даний момент, це в основному змінює зовнішній вигляд і стиль вашої "тепер граючої" області у вашому профілі Discord. Ігри, що підтримують розширену присутність від Discord \(наприклад, GTA V ™, Rainbow Six® Siege тощо\), дуже цікаво передають ваш статус у грі на ваш профіль Discord. Вони в основному використовують свою програму, щоб надіслати ваш статус гри Discord, який відображає інформацію як насичене присутність у вашому профілі. Нарешті, вони стають способом на малюнку нижче.
 
 ![Spotify RPC](../.gitbook/assets/spotify_rpc_example.PNG)
 

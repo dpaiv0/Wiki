@@ -1,10 +1,10 @@
-# Application
+# Застосунок
 
 {% hint style="warning" %}
- You have to install the extension **and** the application to get it working correctly!
+ Ви повинні встановити розширення **та** застосунок, щоб все працювало правильно!
 {% endhint %}
 
-### Application
+### Застосунок
 
 Installing the application is very important since the extension can't do anything on its own and needs the application to activate rich presence on your profile! So, just follow these steps and install it.
 
@@ -26,24 +26,26 @@ Finally, if you've installed everything correct, you can start using PreMiD, jus
 {% endtab %}
 
 {% tab title="Mac OS" %}
-1. Download the latest version of the [application](https://premid.app/downloads)
-2. Open the downloaded **.dmg** file
-3. Drag **PreMiD** Into your **Applications** Folder
-4. Open your Launchpad or press F4
-5. Open **PreMiD**
-6. Press **"Allow"** if a window pops up
-7. Install the [extension](extension.md) if you haven't already
+1. Завантажте останню версію [застосунку](https://premid.app/downloads)
+2. Відкрийте завантажений **.dmg** файл
+3. Перетягніть **PreMiD** до вашої теки **Застосунків**
+4. Відкрийте ваш Launchpad або натисніть F4
+5. Відкрийте **PreMiD**
+6. Натисніть**"Дозволити"** якщо з’явиться вікно
+7. Установіть [розширення](extension.md), якщо Ви ще не встановили
 {% endtab %}
 
 {% tab title="Linux" %}
 {% hint style="info" %}
-If you want to talk about the GNU/Linux support visit: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
+Якщо ви хочете поговорити про підтримку GNU/Linux, відвідайте:
+
+[https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
 {% endhint %}
 
-1. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-2. Change the working directory: `cd PreMiD/src`
-3. Install dependencies and the application itself: `npm install`
-4. Now you can start the application: `npm start`
+1. Клонуйте репозиторій: `git clone https://github.com/Timeraa/PreMiD.git`
+2. Змініть робочий каталог: `cd PreMiD/src`
+3. Встановіть залежності та сам застосунок: `npm install`
+4. Тепер ви можете запустити застосунок: `npm start`
 {% endtab %}
 {% endtabs %}
 

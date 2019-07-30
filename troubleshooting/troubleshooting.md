@@ -1,90 +1,89 @@
-# Troubleshooting
+# Вирішення проблем
 
-## **First of all**
+## Перш за все
 
-Make sure you have the [extension](../installation/extension.md) **and** the [application](../installation/application.md) installed!  
-You can also try different steps. You don't have to try these in the order we put them here.
+Переконайтесь, що [розширення](../installation/extension.md) **і** [застосунок встановлені](../installation/application.md)!  
+Ви також можете спробувати різні кроки. Вам не доведеться пробувати їх у тому порядку, коли ми їх розмістили тут.
 
-## Discord won't show the presence
+## Discord не показує присутність
 
-### Be sure Discord is running NOT as administrator
+### Будьте певними, що Discord НЕ запущено за правами адміністратора
 
-Really important. Discord RPC won't work if you run Discord as an administrator.
+Це дуже важливо. Розширена присутність Discord не буде працювати, якщо Ви запустили Discord з правами адміністратора.
 
-### Check if you have antivirus or firewall running on your computer
+### Перевірте, чи на вашому комп’ютері працює антивірус або брандмауер
 
-Sometimes **antiviruses** and **firewalls** are **blocking applications** that are creating/hosting servers or just connecting to the internet. We're using the **local server** to **receive** and **pass** data between our app and extension, so if you will **block** app's ability to pass data you probably **won't** be able to use **PreMiD**.
+Іноді **антивіруси** та **брандмауери блокують додатки**, які створюють/розміщують сервери або просто підключаються до Інтернету. Ми використовуємо **локальний сервер** для **отримання** та **передачі** даних між нашим додатком та розширенням, тому якщо ви **заблокуєте** можливість програми передавати дані, ви, ймовірно, **не зможете** використовувати **PreMiD**.
 
-You can **Google** more about antivirus and firewall disabling if you want to **fix** your problem.
+Ви можете дізнатися більше про відключення антивірусу та брандмауера у **Google**, якщо хочете **виправити** свою проблему.
 
-### Make sure you've installed the latest version of PreMiD
+### Переконайтеся, що ви встановили останню версію PreMiD
 
-You can check that by right-clicking on **'Check for updates'** the PreMiD icon in your taskbar.  
-Otherwise the app will let you know when a new update is available.  
-And you do not have to worry about the extension because it updates itself automatically.
+Ви можете перевірити це, натиснувши правою кнопкою миші кнопку "Check for updates" на значку PreMiD на панелі завдань. Інакше застосунок повідомить вас, коли з’явиться нове оновлення. І не потрібно турбуватися про розширення, оскільки воно оновлюється автоматично.
 
 {% hint style="info" %}
-Dev versions and self-injected versions won't update automatically
+Версії розробників та самопобудовані версії не оновляться автоматично
 {% endhint %}
 
 ![Windows taskbar](../.gitbook/assets/checkforupdates.png)
 
-### Make sure that you've enabled Discord Rich Presence in settings
+### Будьте впевненими, що ви увімкнули розширену присутність Discord у налаштуваннях
 
-![Discord Game Activity](../.gitbook/assets/gameactivity_edited.png)
+ 
 
-### Reload the page
+![](../.gitbook/assets/zauvazhennya-2019-07-30-172929.png)
 
-You can press **Strg+R**/**F5** or **CMD+R** on your keyboard too instead of searching for the refresh button.
+### Перезавантажте сторінку
 
-### Restart your browser
+Ви можете натиснути **Strg+R**/**F5** чи **CMD+R** на клавіатурі, замість того,  щоб шукати кнопку оновлення.
 
-**Alt+F4** does a good job too. \(You have to start your browser again obviously\)
+### Перезавантажте браузер
 
-### Disable your addons
+**Alt+F4** робить гарну роботу теж. \(Очевидно, вам доведеться запустити веб-переглядач знову\)
 
-Disable all your addons and see if it works again.  
-If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Вимкніть розширення
 
-### Restart PreMiD \(App\)
+Вимкніть всі ваші доповнення і подивіться, чи працює він знову. Якщо так, спробуйте ввімкнути крок за кроком свої додатки та скажіть нам, яке розширення зламало PreMiD.
+
+### Перезавантажте PreMiD \(Застосунок\)
 
 ![Windows taskbar](../.gitbook/assets/exit.png)
 
-You have to restart PreMiD afterwards.
+Ви повинні перезавантажити PreMiD далі.
 
-### Reload/restart Discord
+### Перезавантажте Discord
 
-Press **Strg+R** or **CMD+R** on your keyboard or restart Discord manually.
+Натисніть **Strg+R** чи **CMD+R** на клавіатурі або перезавантажте Discord вручну.
 
-### Restarting your computer
+### Перезавантажте комп’ютера
 
-I hope you know how to restart a computer.
+Сподіваюся, ви знаєте, як перезапустити комп’ютер.
 
-### Reinstalling PreMiD
+### Перевстановіть PreMiD
 
-Sometimes there's something wrong with the files... Tutorials for the installation can be found [here](../installation/application.md).
+Іноді з файлами щось не так ... Посібники для встановлення можна знайти [тут](../installation/application.md).
 
-### Manual removal
+### Ручне видалення
 
 {% tabs %}
 {% tab title="Windows" %}
-1. 1. Go to `C:\Users\USER\AppData\Local` and delete the folder `premid`
-2. 1. Go to `C:\Users\USER\AppData\Roaming` and delete the folder`PreMiD`
+1. Перейдіть до `C:\Users\USER\AppData\Local`і видаліть теку`premid`
+2.  Перейдіть до`C:\Users\USER\AppData\Roaming` і видаліть теку`PreMiD`
 {% endtab %}
 
 {% tab title="Mac OS" %}
-Go to `YOURDISK:/users/USER/~Library/Application Support` and delete the folder `PreMiD`
+Перейдіть до `ВАШДИСК:/users/USER/~Library/Application Support` і видаліть теку `PreMiD`
 {% endtab %}
 {% endtabs %}
 
-Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.
+Згадайте роль staff на нашому [Discord сервері](https://discord.gg/WvfVZ8T), якщо жоден із цих кроків не допоміг.
 
-## That hasn't solved my problem
+## Це не вирішило моєї проблеми
 
-You can either:
+Ви можете:
 
-* [Open a issue](https://github.com/PreMiD/PreMiD/issues/new/choose) on [GitHub](https://github.com/PreMiD/PreMiD)
-* Ask a staff member in [\#support](https://discord.gg/WvfVZ8T)
+* [Відкрити issue](https://github.com/PreMiD/PreMiD/issues/new/choose) на [GitHub](https://github.com/PreMiD/PreMiD)
+* Запитати співробітника \(має роль Staff\) у [\#support](https://discord.gg/WvfVZ8T)
 
   
 

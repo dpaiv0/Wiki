@@ -1,13 +1,17 @@
-# Example pictures
+# Приклад зображень
 
-#### Examples
 
-This is what you listen to on YouTube:
 
-![YouTube](../../.gitbook/assets/yt_example.PNG)
+#### Приклад
+
+Це те, що ти слухаєш на YouTube:
 
   
-And this is what happens on your profile when PreMiD is running and able to get information from your browser: 
 
-![Discord RPC](../../.gitbook/assets/discord_rpc_example2.PNG)
+![Youtube](../../.gitbook/assets/unknown%20%281%29.png)
+
+   
+Це те, що відбувається у вашому профілі, коли PreMiD працює і може отримати інформацію з вашого браузера:
+
+![&#x420;&#x43E;&#x437;&#x448;&#x438;&#x440;&#x435;&#x43D;&#x430; &#x43F;&#x440;&#x438;&#x441;&#x443;&#x442;&#x43D;&#x456;&#x441;&#x442;&#x44C; &#x443; Discord](../../.gitbook/assets/unknown.png)
 
