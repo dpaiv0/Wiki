@@ -79,6 +79,11 @@ Go to `YOURDISK:/users/USER/~Library/Application Support` and delete the folder 
 
 Ping a staff member on our [Discord server](https://discord.gg/WvfVZ8T) if none of these steps helped.
 
+### On Linux
+
+If you've downloaded Discord through [Snapcraft](https://snapcraft.io), RPC **won't** work.
+You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) \([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)\), then navigating to the directory you downloaded Discord to \(usually `$HOME/Downloads`\), then installing the package using `sudo dpkg -i discord-*.deb`.
+
 ## That hasn't solved my problem
 
 You can either:
