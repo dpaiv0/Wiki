@@ -40,10 +40,8 @@ Finally, if you've installed everything correct, you can start using PreMiD, jus
 If you want to talk about the GNU/Linux support visit: [https://github.com/Timeraa/PreMiD/issues/21](https://github.com/Timeraa/PreMiD/issues/21)
 {% endhint %}
 
-1. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-2. Change the working directory: `cd PreMiD/src`
-3. Install dependencies and the application itself: `npm install`
-4. Now you can start the application: `npm start`
+Execute the PreMiD installation script by executing `wget -qO- https://bit.ly/get-premid | bash` or `curl -sL https://bit.ly/get-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
+
 {% endtab %}
 {% endtabs %}
 
